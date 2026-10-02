@@ -6,8 +6,13 @@ Welcome to our tech opportunities board! I’m **Giorgio**, Full Stack & Social 
 
 ---
 
-# 🎮🕹️ 📢 Open Positions🎮🕹️
-All our active vacancies are published in the **Issues** section of this repository. Think of it as our official board for tech "quests."
+<div align="center">
+
+# 🎮 📢 ACTIVE TECH QUESTS 🕹️
+
+> *All our active vacancies are logged directly in the **Issues** section of this repository. Consider it our official Guild Board for open opportunities.*
+
+</div>
 
 <div align="center">
   <h3>🚀 Quick Access to Active Positions</h3>
@@ -51,11 +56,20 @@ Are you a tech professional, a digital learning creative, or simply a "proud ner
 </p>
 
 ## 🎯 About Us
+<div align="center">
 
-### 🇮🇹 inRebus Technologies (FOS Group)
-Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company. Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
+### 🏛️ inRebus Technologies *(FOS Group)*
 
-**Offered Services:** 🔹 [Software Factory](https://www.inrebus.it/) | 🔹 [Digital Learning](https://www.inrebus.education/)
+Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
+Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise across digital transformation and public administration fields.
+
+<br/>
+
+[![Software Factory](https://img.shields.io/badge/Services-Software%20Factory-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.inrebus.it/)
+&nbsp;
+[![Digital Learning](https://img.shields.io/badge/Services-Digital%20Learning-8A2BE2?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.inrebus.education/)
+
+</div>
 
 ---
 
