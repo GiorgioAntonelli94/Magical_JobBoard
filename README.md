@@ -1,3 +1,4 @@
+![Wizard](https://raw.githubusercontent.com/GiorgioAntonelli94/Magical_JobBoard/fa7bc3b8df50c2b7be3a5f3d3127e185f9ff6003/2109.i032.024.S.m005.c13.isometric%20wizard%20magic%20illustration.jpg)
 
 # 🧙‍♂️ Join inRebus Technologies | IT Careers & Digital Learning🧙‍♂️ 💻
 
