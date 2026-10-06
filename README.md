@@ -1,5 +1,13 @@
 ![Wizard](https://raw.githubusercontent.com/GiorgioAntonelli94/Magical_JobBoard/fa7bc3b8df50c2b7be3a5f3d3127e185f9ff6003/2109.i032.024.S.m005.c13.isometric%20wizard%20magic%20illustration.jpg)
 
+
+
+> ⚔️ *"The essence of code lies in being prepared to program, morning and night, at every moment of the day. When a dev is always ready to immerse themselves in code as in their own thoughts, they master the Way."*
+>
+> — **Yamaloper Devtomo**, *Pythonure*
+>
+
+
 # 🧙‍♂️ Join inRebus Technologies | IT Careers & Digital Learning🧙‍♂️ 💻
 
 Welcome to our tech opportunities board! I’m **Giorgio**, Full Stack & Social Media Recruiter at **inRebus Technologies** (FOS Group). I focus on connecting people, technology, and ideas to drive both digital and human growth.
