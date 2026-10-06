@@ -73,13 +73,36 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise a
 
 ---
 
-## 🔮 Roles We Are Constantly Looking For🔮
-We are always seeking curious talents passionate about innovation:
-* **Developers** (Backend, Frontend, Full Stack)
-* **System Engineers & Data Specialists**
-* **Creative Talents** for the Digital Learning sector
-* **IT Analysts**
+## ⚡ `<RolesWeAreLookingFor />`
 
+> *“We are always seeking curious talents passionate about innovation.”*
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 Engineering & Dev</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Backend-blue?style=flat-square&logo=python&logoColor=white" /> <b>Backend Developers</b></li>
+        <li><img src="https://img.shields.io/badge/-Frontend-cyan?style=flat-square&logo=react&logoColor=white" /> <b>Frontend Developers</b></li>
+        <li><img src="https://img.shields.io/badge/-FullStack-purple?style=flat-square&logo=git&logoColor=white" /> <b>Full Stack Engineers</b></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🚀 Data & Infrastructure</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-SysOps-orange?style=flat-square&logo=linux&logoColor=white" /> <b>System Engineers</b></li>
+        <li><img src="https://img.shields.io/badge/-Data-green?style=flat-square&logo=postgresql&logoColor=white" /> <b>Data Specialists</b></li>
+        <li><img src="https://img.shields.io/badge/-Analysis-yellow?style=flat-square&logo=microsoftexcel&logoColor=white" /> <b>IT Analysts</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🎨 Digital Learning & Content</h3>
+      <p>💡 <b>Creative Talents</b> passionate about EdTech, instructional design & digital media</p>
+    </td>
+  </tr>
+</table>
 ---
 
 
