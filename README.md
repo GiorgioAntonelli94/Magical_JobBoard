@@ -38,7 +38,7 @@ Welcome to our tech opportunities board! I’m **Giorgio**, Full Stack & Social 
     </a>
     &nbsp;
     <!-- LinkedIn Job Board Badge -->
-    <a href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/" target="_blank">
+    <a href="[https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-](https://www.linkedin.com/newsletters/bacheca-annunci-7092501987237240832/)/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Bacheca%20Annunci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bacheca Annunci" />
     </a>
   </p>
